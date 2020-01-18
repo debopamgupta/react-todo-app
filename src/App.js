@@ -9,7 +9,7 @@ class App extends Component {
   constructor() {
     super();
     this.state = {
-      message: "Hello DG!",
+      message: "Todos - Manage Your Day The Effective Way",
       newTodo: "",
       todos: []
     };
