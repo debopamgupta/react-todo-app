@@ -4,6 +4,10 @@ This was me following CJ's stream on making a React Todo App. <br />
 
 Check out the stream: [Intro to React](https://youtu.be/vIA130MePY8)
 
+## ScreenShot
+
+<img src="./assets/screenshot.png"/>
+
 ## Prerequisites
 
 Node.js
